@@ -1,0 +1,6 @@
+if SHIELD_KEYBIRD
+
+config ZMK_KEYBOARD_NAME
+  default "Keybird"
+
+endif
