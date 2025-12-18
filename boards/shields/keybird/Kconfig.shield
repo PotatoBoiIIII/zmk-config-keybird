@@ -1,4 +1,4 @@
 config SHIELD_KEYBIRD
-  def_bool $(shields_list_containts, keybird)
+  def_bool $(shields_list_contains, keybird)
 
 
