@@ -4,3 +4,4 @@ config ZMK_KEYBOARD_NAME
   default "Keybird"
 
 endif
+CONFIG_ZMK_KEYBOARD_NAME="Keybird"
